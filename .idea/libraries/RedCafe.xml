@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RedCafe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RedCafe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

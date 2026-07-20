@@ -1,6 +1,6 @@
 # RED_CAFE Desktop Project
 
-This is a desktop-based project developed using JavaFX, created by Akshit Tyagi.
+This is a desktop-based project developed using JavaFX, For Reference take a view at following video - https://www.dropbox.com/scl/fi/7m3imm2zwcvs9pkjz8gv9/RED_CAFE-ProjectRecording.mp4?rlkey=c38leef8019yh18rv1qtw5drv&st=csv0kqra&dl=0
 
 ## Software Requirements
 
@@ -29,7 +29,3 @@ Follow these steps to run the project:
 
 ## Contributing
 If you'd like to contribute to Red Cafe, you are welcome to do so. Feel free to submit bug reports, feature requests, or pull requests. Make sure to follow our code formatting standards.
-
----
-
-By: Akshit Tyagi
